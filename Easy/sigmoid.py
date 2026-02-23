@@ -1,3 +1,6 @@
+# Sigmoid Function
+# Topic: activation Function
+
 import numpy as np
 
 def sigmoid(x):

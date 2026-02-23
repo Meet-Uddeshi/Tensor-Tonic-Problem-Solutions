@@ -1,4 +1,5 @@
 # Gradient Descent for a 1D Quadratic
+# Topic: Optimization
 
 def gradient_descent_quadratic(a, b, c, x0, lr, steps):
     """

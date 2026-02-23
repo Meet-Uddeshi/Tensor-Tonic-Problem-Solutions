@@ -1,3 +1,6 @@
+# Matrix Transpose
+# Topic: Linear Algebra
+
 import numpy as np
 
 def matrix_transpose(A):
